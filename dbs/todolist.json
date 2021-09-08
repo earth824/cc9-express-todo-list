@@ -1,1 +1,20 @@
-[{ "id": "81b53723-7032-4bd6-8f0b-7768bb58a958", "list": "Breakfast", "completed": false, "dueDate": null }]
+[
+  {
+    "id": "9ca98bd4-d546-412a-831c-022ca2a35d91",
+    "list": "Meeting",
+    "completed": false,
+    "dueDate": "2021-11-01T00:00:00.000Z"
+  },
+  {
+    "id": "7d22a282-b567-4e3f-b820-8143b165fe82",
+    "list": "Shopping",
+    "completed": true,
+    "dueDate": "2021-11-01T00:00:00.000Z"
+  },
+  {
+    "id": "ecba182b-892d-4b89-ae5a-faf5bb3a8530",
+    "list": "Watch a movie",
+    "completed": true,
+    "dueDate": "2021-11-01T00:00:00.000Z"
+  }
+]
